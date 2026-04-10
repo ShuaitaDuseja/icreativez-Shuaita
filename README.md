@@ -40,7 +40,7 @@ https://github.com/icreativez-Shuaita
 
 
 ## Contact Me
-Email: your-email@gmail.com  
+Email: shuaitaduseja@gmail.com  
 GitHub: https://github.com/ShuaitaDuseja  
 
 
