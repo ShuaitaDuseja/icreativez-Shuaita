@@ -36,7 +36,7 @@ Console-based application using C++ for store inventory and billing.
 
 Portfolio Website
 You can also view my portfolio website here:  
-https://github.com/icreativez-Shuaita  
+https://github.com/ShuaitaDuseja/icreativez-Shuaita
 
 
 ## Contact Me
